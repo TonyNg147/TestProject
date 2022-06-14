@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout<<"Linh lon";
+    std::cout<<"Linh cac";
 }
-// working area -> staged area
+// working area -> staged area-> local repository -> remote repository
